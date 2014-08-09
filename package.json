@@ -1,0 +1,11 @@
+{
+  "name": "githubApp",
+  "version": "0.0.0",
+  "description": "An app that takes a github account name as argument and displays all its repos",
+  "main": "github.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
